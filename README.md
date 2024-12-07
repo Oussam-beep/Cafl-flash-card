@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mobile_dev_project
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Cafl-flash-card
+ a flashcard app to enhance memorization using AI
+>>>>>>> d73ef6d45e2f8bb91f194b9e743ce66badd9636b
